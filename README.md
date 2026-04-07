@@ -1,6 +1,6 @@
 # AI Coding Wiki
 
-基于 LLM 维护的AI Coding知识库，灵感来自 [Andrej Karpathy 的 LLM Wiki](https://wiki.karpathy.ai/) 理念。核心思想：**知识编译一次、持续更新**，而非每次查询重新推导。
+基于 LLM 维护的AI Coding知识库，灵感来自 [Andrej Karpathy 的 LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 理念。核心思想：**知识编译一次、持续更新**，而非每次查询重新推导。
 
 ## 工作方式
 

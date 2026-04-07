@@ -6,7 +6,7 @@
       {
         "id": "0713c678a1873e04",
         "type": "tabs",
-        "dimension": 40.62968515742129,
+        "dimension": 33.50824587706147,
         "children": [
           {
             "id": "2afd463da9d0caa5",
@@ -23,7 +23,7 @@
       {
         "id": "f330a18075a50caf",
         "type": "tabs",
-        "dimension": 59.37031484257871,
+        "dimension": 66.49175412293853,
         "children": [
           {
             "id": "d721b41633c26079",
@@ -202,7 +202,11 @@
   },
   "active": "d721b41633c26079",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/Andrej Karpathy.md",
+    "wiki/LLM Wiki.md",
     "README.md",
+    "CLAUDE.md",
     "wiki/胶水编程.md",
     "wiki/来源_天猫胶水编程实践.md",
     "wiki/来源_Karpathy知识库LLM Wiki火爆全网.md",
@@ -214,11 +218,8 @@
     "wiki/RAG.md",
     "wiki/Obsidian.md",
     "wiki/log.md",
-    "wiki/LLM Wiki.md",
-    "wiki/index.md",
     "wiki/Harness Engineering.md",
     "wiki/Edsger Dijkstra.md",
-    "wiki/Andrej Karpathy.md",
     "wiki",
     "raw/assets/v2-df7189fea834d9da93337f49493a3cde_1440w.jpg",
     "raw/assets/v2-8aaa34ed9711ea1d6f2ab76b42867838_1440w.jpg",
@@ -235,7 +236,6 @@
     "raw/assets",
     "raw/97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】.md",
     "raw",
-    "CLAUDE.md",
     "LICENSE",
     "raw/王勃对问题“王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」”的回答.md",
     "Clippings"
