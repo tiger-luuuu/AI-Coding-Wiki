@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "a50000af63451e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "0713c678a1873e04",
+        "type": "tabs",
+        "dimension": 40.62968515742129,
+        "children": [
+          {
+            "id": "2afd463da9d0caa5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f330a18075a50caf",
+        "type": "tabs",
+        "dimension": 59.37031484257871,
+        "children": [
+          {
+            "id": "d721b41633c26079",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "321dfc819166ee85",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18a974709fcb0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91bbc6169310abd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f007786d030d86db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3e6797c3d8bb2978",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "be1345de065ac42f",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b5337a807d08a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ccbb066cc398d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "fa86d3f1e76979a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ae8458a77d5c76d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "194927fe59a02898",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e6013cf63f9f531c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d721b41633c26079",
+  "lastOpenFiles": [
+    "wiki/胶水编程.md",
+    "wiki/来源_天猫胶水编程实践.md",
+    "wiki/来源_Karpathy知识库LLM Wiki火爆全网.md",
+    "wiki/来源_Dijkstra预言与Vibe Coding.md",
+    "wiki/元框架.md",
+    "wiki/代码采纳率.md",
+    "wiki/上下文工程.md",
+    "wiki/Vibe Coding.md",
+    "wiki/RAG.md",
+    "wiki/Obsidian.md",
+    "wiki/log.md",
+    "wiki/LLM Wiki.md",
+    "wiki/index.md",
+    "wiki/Harness Engineering.md",
+    "wiki/Edsger Dijkstra.md",
+    "wiki/Andrej Karpathy.md",
+    "wiki",
+    "raw/assets/v2-df7189fea834d9da93337f49493a3cde_1440w.jpg",
+    "raw/assets/v2-8aaa34ed9711ea1d6f2ab76b42867838_1440w.jpg",
+    "raw/assets/v2-7ac2f1b8a3d055d24758664ac7af07c6_1440w.jpg",
+    "raw/assets/v2-5a6a5abb4db407b81273bbd051047932_1440w.jpg",
+    "raw/assets/v2-2bbf503d40d5ab6c3b2b44d80bf2fb76_1440w.jpg",
+    "raw/assets/Image.webp",
+    "raw/assets/Image 8.webp",
+    "raw/assets/Image 9.webp",
+    "raw/assets/Image 7.webp",
+    "raw/assets/Image 6.webp",
+    "raw/Karpathy知识库「LLM Wiki」火爆了，全网围观讨论.md",
+    "raw/Dijkstra 48年前就预言了 Vibe Coding 的问题——自然语言编程的「愚蠢」与「聪明」.md",
+    "raw/assets",
+    "raw/97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫AI Coding实践系列】.md",
+    "raw",
+    "CLAUDE.md",
+    "LICENSE",
+    "raw/王勃对问题“王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」”的回答.md",
+    "Clippings"
+  ]
+}
