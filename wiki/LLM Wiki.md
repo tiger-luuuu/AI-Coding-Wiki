@@ -1,7 +1,7 @@
 ---
 类型: 概念
-来源数: 2
-最后更新: 2026-04-07
+来源数: 3
+最后更新: 2026-04-08
 标签: [知识管理, LLM, AI工具, Karpathy]
 ---
 
@@ -33,12 +33,24 @@ LLM Wiki 是由 [[Andrej Karpathy]] 提出的一种知识管理模式：让 LLM 
 
 - 中等规模下（~100篇、~40万字）不依赖传统 RAG
 - 索引文件（index.md）+ 摘要即可支撑有效检索
+- 规模增长后可引入 [[qmd]] 等本地搜索引擎
 - 使用 [[Obsidian]] 作为浏览前端
 - 被视为[[元框架]]，不依赖特定模型或技术栈
+- Wiki 本质是 Markdown 文件的 git 仓库，天然获得版本历史和协作能力
 
 ### 工作比喻
 
 > Obsidian 是 IDE，LLM 是程序员，wiki 是代码库。
+
+### 为什么有效
+
+知识库维护的核心瓶颈不是阅读或思考，而是**记账式的维护工作**——更新交叉引用、保持摘要最新、标注新旧信息的矛盾、维护几十个页面的一致性。人类放弃 wiki 是因为维护负担增长速度超过价值增长。LLM 解决了这个问题：不会厌倦、不会遗忘，一次可修改多个文件，维护成本趋近于零。
+
+> The human's job is to curate sources, direct the analysis, ask good questions, and think about what it all means. The LLM's job is everything else.
+
+### 思想源流
+
+LLM Wiki 的理念可追溯至 [[Memex]]（Vannevar Bush, 1945）——一个个人化的、主动策划的知识存储系统，文档间的关联路径与文档本身同等重要。Bush 当年无法解决的问题——谁来做维护——被 LLM 解决了。
 
 ### 与胶水编程的共鸣
 
@@ -49,10 +61,13 @@ LLM Wiki 是由 [[Andrej Karpathy]] 提出的一种知识管理模式：让 LLM 
 - [[RAG]] — LLM Wiki 试图超越的传统检索方式
 - [[元框架]] — 社区对 LLM Wiki 的定位
 - [[Obsidian]] — 推荐的浏览工具
+- [[qmd]] — 推荐的 wiki 搜索引擎（规模增长后使用）
+- [[Memex]] — 思想先驱（Vannevar Bush, 1945）
 - [[胶水编程]] — AI 编码领域的类似理念：知识持续积累、复用优先于重新创作
 - [[上下文工程]] — LLM Wiki 的知识预编译是上下文工程的实践
 
 ## 来源
 
+- [[来源_Karpathy LLM Wiki Gist]]（原始来源）
 - [[来源_Karpathy知识库LLM Wiki火爆全网]]
 - [[来源_天猫胶水编程实践]]
