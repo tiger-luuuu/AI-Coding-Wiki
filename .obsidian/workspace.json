@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "408d0fb0074f8d02",
+        "id": "758024586055b71d",
         "type": "tabs",
         "children": [
           {
-            "id": "33eb1e906892587c",
+            "id": "e5d69590c03c875f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/来源_腾讯审核团队全链路AI自动化.md",
+                "file": "wiki/来源_Harness Engineering工程化落地_白家杰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "来源_腾讯审核团队全链路AI自动化"
+              "title": "来源_Harness Engineering工程化落地_白家杰"
             }
           }
         ]
@@ -94,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/来源_腾讯审核团队全链路AI自动化.md",
+                "file": "wiki/来源_Harness Engineering工程化落地_白家杰.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "来源_腾讯审核团队全链路AI自动化 的反向链接列表"
+              "title": "来源_Harness Engineering工程化落地_白家杰 的反向链接列表"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +183,39 @@
       "bases:新建数据库": false
     }
   },
-  "active": "91bbc6169310abd4",
+  "active": "e5d69590c03c875f",
   "lastOpenFiles": [
+    "wiki/白家杰.md",
+    "raw/万字干货！Harness Engineering如何工程化落地？.md",
+    "wiki/来源_Harness Engineering工程化落地_白家杰.md",
+    "raw/assets/Image 61.webp",
+    "raw/assets/Image 60.webp",
+    "raw/assets/Image 59.webp",
+    "raw/assets/Image 58.webp",
+    "raw/assets/Image 57.webp",
+    "raw/assets/Image 56.webp",
+    "raw/assets/Image 55.webp",
+    "raw/assets/Image 54.webp",
+    "raw/assets/Image 53.webp",
+    "wiki/assets/Image 8.webp",
+    "wiki/assets",
+    "未命名 1.canvas",
+    "Clippings/assets",
+    "wiki/来源_腾讯审核团队全链路AI自动化.md",
     "wiki/Harness Engineering.md",
     "wiki/上下文工程.md",
     "wiki/Erik Schluntz.md",
     "wiki/来源_如何正确Vibe Coding_Schluntz.md",
     "未命名.canvas",
     "raw/如何正确Vibe Coding？这是来自Anthropic编程智能体负责人的大师课.md",
-    "raw/assets/Image 52.webp",
-    "raw/assets/Image 51.webp",
-    "raw/assets/Image 50.webp",
-    "raw/assets/Image 49.webp",
-    "raw/assets/Image 48.webp",
-    "raw/assets/Image 47.webp",
-    "raw/assets/Image 46.webp",
-    "raw/assets/Image 45.webp",
-    "raw/assets/Image 44.webp",
     "Clippings/深度解析 Claude Code 在 Prompt  Context  Harness 的设计与实践.md",
     "raw/Harness Engineering：AI 能在真正出事会炸的后端系统里写代码吗？ 1.md",
     "AGENTS.md",
     "CLAUDE copy.md",
     "wiki/AI全自动化交付.md",
-    "wiki/来源_腾讯审核团队全链路AI自动化.md",
     "wiki/对抗式CR.md",
     "wiki/来源_腾讯CDN LEGO Harness Engineering实践.md",
-    "raw/assets/Image 43.webp",
     "raw/Harness Engineering：AI 能在真正出事会炸的后端系统里写代码吗？.md",
-    "Clippings/assets",
     "raw/从提需求到部署发布，全AI全自动化后，研发效能全面跃升.md",
     "raw/AI CoE能力培训 -- Spec Driven.md",
     "wiki/Edsger Dijkstra.md",
@@ -221,10 +227,6 @@
     "未命名.base",
     "未命名 1.base",
     "2026-04-10.md",
-    "2026-04-11.md",
-    "未命名 1.canvas",
-    "raw/Dijkstra 48年前就预言了 Vibe Coding 的问题——自然语言编程的「愚蠢」与「聪明」.md",
-    "wiki/来源_Karpathy LLM Wiki Gist.md",
     "wiki",
     "raw/assets",
     "raw",

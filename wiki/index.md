@@ -4,6 +4,7 @@
 
 ## 来源摘要
 
+- [[来源_Harness Engineering工程化落地_白家杰]] — 白家杰以 JK Launcher 为案例，从零搞起 Harness Engineering 的 12 章完整实践手册（六大零件/七Agent/四块拼图）
 - [[来源_如何正确Vibe Coding_Schluntz]] — Anthropic 研究员 Erik Schluntz 演讲：生产环境 Vibe Coding 的叶子节点策略、可验证抽象层与 TDD 实践
 - [[来源_Dijkstra预言与Vibe Coding]] — Dijkstra 1978 年 EWD667 手稿对自然语言编程的预言，与 Vibe Coding 实践的对照
 - [[来源_Karpathy LLM Wiki Gist]] — Karpathy 原始 gist，LLM Wiki 理念的第一手来源
@@ -33,6 +34,7 @@
 - [[Erik Schluntz]] — Anthropic 研究员，生产环境 Vibe Coding 方法论实践者
 - [[Obsidian]] — Markdown 知识管理工具，LLM Wiki 的推荐浏览前端
 - [[qmd]] — 本地 Markdown 搜索引擎，Karpathy 推荐的 wiki 检索工具
+- [[白家杰]] — Harness Engineering 工程化落地实践者，JK Launcher 项目作者
 
 ## 主题
 
