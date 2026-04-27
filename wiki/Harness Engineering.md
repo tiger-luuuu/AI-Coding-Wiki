@@ -1,7 +1,7 @@
 ---
 类型: 概念
-来源数: 4
-最后更新: 2026-04-23
+来源数: 5
+最后更新: 2026-04-27
 标签: [AI编码, 方法论, 形式化, 工程实践]
 ---
 
@@ -56,6 +56,26 @@ Harness Engineering 并非否定自然语言的价值，而是确立了三层结
 - [[Vibe Coding]] — 演进路线的起点，Harness Engineering 要解决的问题源头
 - [[胶水编程]] — 物料体系是 Harness Engineering 在特定领域的落地
 - [[Edsger Dijkstra]] — "形式化符号是排除胡说八道的工具"
+
+## 工程实践：阿里云开发者 code_copilot 个人框架
+
+阿里云开发者将 [[Spec Coding]] 与 Harness Engineering 理念融合，设计了 code_copilot 个人框架。它展示了 Harness 四块拼图在个人/小团队场景中的最小实现路径。
+
+| Harness 四块拼图 | code_copilot 对应实现                                                      |
+| ---------------- | -------------------------------------------------------------------------- |
+| 约束与流程       | `rules/`（始终生效）+ Propose-Apply 工作流 + HARD-GATE 门控                |
+| 反馈             | Verification 鐵律（每个 task 展示可验证证据）+ Sub Agent Review 两阶段审查 |
+| 知识库/索引      | `knowledge/`（触发关键词索引）+ `changes/log.md`（实时踩坑采集）           |
+| 进化             | 知识飞轮（需求实践→踩坑→沉淀 knowledge/→AI 更准）+ Archive 归档机制        |
+
+与白家杰（JK Launcher）、腾讯 CDN LEGO、腾讯审核团队构成四种场景下的 Harness 实践全景：
+
+| 实践                         | 规模         | 特点                                 |
+| ---------------------------- | ------------ | ------------------------------------ |
+| [[Spec Coding]] code_copilot | 个人/小团队  | 轻量起步，渐进式复杂度，两层 AI 架构 |
+| [[白家杰]] JK Launcher       | 个人项目     | 七 Agent 演化，第一层完整实践        |
+| 腾讯 CDN LEGO                | 百万行 C++   | 五层架构，对抗式 CR                  |
+| 腾讯审核团队                 | 全链路自动化 | L1→L2→L3 演进，AI 全自动交付         |
 
 ## 工程实践：白家杰 JK Launcher 落地全记录
 
@@ -241,6 +261,7 @@ LEGO 团队基于 57 个真实案例提炼 13 类问题，最危险的是：
 ## 相关概念
 
 - [[上下文工程]] — 演进路线的前一阶段
+- [[Spec Coding]] — Harness Engineering 理念在个人/小团队工作流层面的落地
 - [[Vibe Coding]] — 演进路线的起点，Harness Engineering 要解决的问题源头
 - [[胶水编程]] — 物料体系是 Harness Engineering 在特定领域的落地
 - [[对抗式CR]] — Harness Engineering 约束层的代码审查实现
@@ -254,3 +275,4 @@ LEGO 团队基于 57 个真实案例提炼 13 类问题，最危险的是：
 - [[来源_腾讯CDN LEGO Harness Engineering实践]]
 - [[来源_腾讯审核团队全链路AI自动化]]
 - [[来源_Harness Engineering工程化落地_白家杰]]
+- [[来源_渐进式Spec实战指南_阿里云]]

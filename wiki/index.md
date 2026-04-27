@@ -9,9 +9,10 @@
 - [[来源_Dijkstra预言与Vibe Coding]] — Dijkstra 1978 年 EWD667 手稿对自然语言编程的预言，与 Vibe Coding 实践的对照
 - [[来源_Karpathy LLM Wiki Gist]] — Karpathy 原始 gist，LLM Wiki 理念的第一手来源
 - [[来源_Karpathy知识库LLM Wiki火爆全网]] — 机器之心报道，Karpathy 的 LLM Wiki 理念引发全网讨论
-- [[来源_天猫胶水编程实践]] — 天猫团队"胶水编程"实践，AI 编码采纳率从 50% 提升到 90%+
+- [[来源_天猫胶水编程实践]] — 天猫团队“胶水编程”实践，AI 编码采纳率从 50% 提升到 90%+
 - [[来源_腾讯CDN LEGO Harness Engineering实践]] — 腾讯 CDN 百万行 C++ 系统中的 Harness Engineering 五层架构与对抗式 CR 实践
 - [[来源_腾讯审核团队全链路AI自动化]] — 腾讯审核团队需求到部署的全链路 AI 自动化演进（L1→L2→L3）
+- [[来源_渐进式Spec实战指南_阿里云]] — 阿里云开发者 code_copilot 框架：渐进式 Spec + Propose-Apply-Review-Archive 工作流 + 两层 AI 架构
 
 ## 概念
 
@@ -21,6 +22,7 @@
 - [[LLM Wiki]] — LLM 增量构建持久化知识库的模式，由 Karpathy 提出
 - [[Memex]] — Vannevar Bush 1945 年提出的个人知识存储概念，LLM Wiki 的思想先驱
 - [[RAG]] — 检索增强生成，LLM 处理文档的主流方式及其局限性
+- [[Spec Coding]] — 结构化文档驱动 AI 编码的方法论，含渐进式复杂度、Propose-Apply-Review-Archive 工作流、两层 AI 架构
 - [[Vibe Coding]] — 自然语言直接驱动 AI 生成代码的编程方式，及其结构性局限
 - [[代码采纳率]] — 衡量 AI 编码产出质量的核心指标
 - [[胶水编程]] — 让 AI 从已有代码中组装而非从零创作的编码方法论

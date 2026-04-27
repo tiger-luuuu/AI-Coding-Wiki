@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/来源_Harness Engineering工程化落地_白家杰.md",
-                "mode": "source",
+                "file": "raw/2026 年 AI 编码的“渐进式 Spec”实战指南 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "来源_Harness Engineering工程化落地_白家杰"
+              "title": "2026 年 AI 编码的“渐进式 Spec”实战指南 1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 386.5
   },
   "right": {
     "id": "be1345de065ac42f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/来源_Harness Engineering工程化落地_白家杰.md",
+                "file": "raw/万字干货！Harness Engineering如何工程化落地？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "来源_Harness Engineering工程化落地_白家杰 的反向链接列表"
+              "title": "万字干货！Harness Engineering如何工程化落地？ 的反向链接列表"
             }
           },
           {
@@ -185,19 +185,22 @@
   },
   "active": "e5d69590c03c875f",
   "lastOpenFiles": [
-    "wiki/白家杰.md",
+    "raw/assets/Image 5.png",
+    "raw/assets/Image 4.png",
+    "raw/assets/Image 3.png",
+    "raw/assets/Image 2.png",
+    "raw/assets/Image 1.png",
+    "raw/assets/Image.png",
+    "Clippings/2026 年 AI 编码的“渐进式 Spec”实战指南.md",
+    "raw/2026 年 AI 编码的“渐进式 Spec”实战指南 1.md",
     "raw/万字干货！Harness Engineering如何工程化落地？.md",
     "wiki/来源_Harness Engineering工程化落地_白家杰.md",
+    "wiki/白家杰.md",
     "raw/assets/Image 61.webp",
     "raw/assets/Image 60.webp",
     "raw/assets/Image 59.webp",
     "raw/assets/Image 58.webp",
     "raw/assets/Image 57.webp",
-    "raw/assets/Image 56.webp",
-    "raw/assets/Image 55.webp",
-    "raw/assets/Image 54.webp",
-    "raw/assets/Image 53.webp",
-    "wiki/assets/Image 8.webp",
     "wiki/assets",
     "未命名 1.canvas",
     "Clippings/assets",
@@ -222,11 +225,8 @@
     "wiki/Andrej Karpathy.md",
     "wiki/index.md",
     "raw/llm-wiki.md",
-    "raw/Karpathy知识库「LLM Wiki」火爆了，全网围观讨论.md",
-    "README.md",
     "未命名.base",
     "未命名 1.base",
-    "2026-04-10.md",
     "wiki",
     "raw/assets",
     "raw",
