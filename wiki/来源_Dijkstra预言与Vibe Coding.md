@@ -19,7 +19,8 @@
 
 1. **Dijkstra 1978 年的三个论点至今成立**：形式化符号是进步引擎而非累赘；自然语言的"自然"本质上是危险的舒适；接口变宽不一定减轻负担（"窄接口"原则）
 2. **[[Vibe Coding]] 的甜蜜期过后问题浮现**：AI 总是漏需求、代码没有架构感、上下文越长越降智、写码快不代表深思熟虑——全部验证了 Dijkstra 的预言
-3. **AI 编程工具演进三阶段**：Prompt Engineering → [[上下文工程|Context Engineering]] → [[Harness Engineering]]，方向是从自然语言走向形式化约束
+3. **Harness Engineering 由 Mitchell Hashimoto（Terraform 作者）提出**：核心原则是每次发现 AI 犯错，就工程化一个机制让它以后不再犯
+4. **AI 编程工具演进三阶段**：Prompt Engineering → [[上下文工程|Context Engineering]] → [[Harness Engineering]]，方向是从自然语言走向形式化约束
 4. **AI 的真正角色**：不是用自然语言替代形式化，而是成为自然语言到形式化的桥梁。自然语言是输入层，形式化是验证层，AI 是翻译器
 5. **"写代码变便宜了，但思考没有变便宜"**
 
@@ -51,6 +52,10 @@
 ### 从 Vibe Coding 到 Planned 模式的回归
 
 团队最终回归到了一个9步的 Planned 模式开发流程，每一步都是在把自然语言的模糊描述逐步转化为更形式化的约束（spec、测试用例、验收标准、任务分拆）。作者认为这不是倒退，而是 Dijkstra "窄接口"思想的现代实践。
+
+### Harness Engineering 的提出
+
+2026 年行业出现新概念 Harness Engineering（马具工程/驾驭工程），由 Terraform 作者 Mitchell Hashimoto 提出。核心原则：每次发现 AI 犯错，就花时间工程化一个机制，让它以后再也不犯这个错。
 
 ### AI 编程工具演进的三阶段
 

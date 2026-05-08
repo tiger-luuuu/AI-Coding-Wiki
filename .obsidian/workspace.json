@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "758024586055b71d",
+        "id": "30b85afdb6faf5d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d69590c03c875f",
+            "id": "d7ac153560d47bda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/2026 年 AI 编码的“渐进式 Spec”实战指南 1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026 年 AI 编码的“渐进式 Spec”实战指南 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 241.49999618530273
   },
   "right": {
     "id": "be1345de065ac42f",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/万字干货！Harness Engineering如何工程化落地？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "万字干货！Harness Engineering如何工程化落地？ 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -156,21 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Edsger Dijkstra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Edsger Dijkstra 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +177,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e5d69590c03c875f",
+  "active": "d7ac153560d47bda",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.141489.e793fdb18662",
+    "wiki/来源_Dijkstra预言与Vibe Coding.md.tmp.141489.2f8b74b9cc72",
+    "wiki/来源_Dijkstra预言与Vibe Coding.md.tmp.141489.5df9fef379d2",
+    "未命名.base",
+    "AGENTS.md",
+    "wiki/来源_Karpathy LLM Wiki Gist.md",
+    "wiki/index.md",
+    "wiki/log.md",
+    "wiki/qmd.md",
+    "wiki/RAG.md",
+    "CLAUDE.md",
+    "README.md",
+    "raw/2026 年 AI 编码的“渐进式 Spec”实战指南 1.md",
     "raw/assets/Image 5.png",
     "raw/assets/Image 4.png",
     "raw/assets/Image 3.png",
@@ -192,7 +199,6 @@
     "raw/assets/Image 1.png",
     "raw/assets/Image.png",
     "Clippings/2026 年 AI 编码的“渐进式 Spec”实战指南.md",
-    "raw/2026 年 AI 编码的“渐进式 Spec”实战指南 1.md",
     "raw/万字干货！Harness Engineering如何工程化落地？.md",
     "wiki/来源_Harness Engineering工程化落地_白家杰.md",
     "wiki/白家杰.md",
@@ -200,7 +206,6 @@
     "raw/assets/Image 60.webp",
     "raw/assets/Image 59.webp",
     "raw/assets/Image 58.webp",
-    "raw/assets/Image 57.webp",
     "wiki/assets",
     "未命名 1.canvas",
     "Clippings/assets",
@@ -213,24 +218,14 @@
     "raw/如何正确Vibe Coding？这是来自Anthropic编程智能体负责人的大师课.md",
     "Clippings/深度解析 Claude Code 在 Prompt  Context  Harness 的设计与实践.md",
     "raw/Harness Engineering：AI 能在真正出事会炸的后端系统里写代码吗？ 1.md",
-    "AGENTS.md",
     "CLAUDE copy.md",
     "wiki/AI全自动化交付.md",
     "wiki/对抗式CR.md",
     "wiki/来源_腾讯CDN LEGO Harness Engineering实践.md",
-    "raw/Harness Engineering：AI 能在真正出事会炸的后端系统里写代码吗？.md",
-    "raw/从提需求到部署发布，全AI全自动化后，研发效能全面跃升.md",
-    "raw/AI CoE能力培训 -- Spec Driven.md",
-    "wiki/Edsger Dijkstra.md",
-    "wiki/Andrej Karpathy.md",
-    "wiki/index.md",
-    "raw/llm-wiki.md",
-    "未命名.base",
     "未命名 1.base",
     "wiki",
     "raw/assets",
     "raw",
-    "LICENSE",
-    "Clippings"
+    "LICENSE"
   ]
 }

@@ -2,7 +2,29 @@
 
 > 按时间倒序记录 wiki 的所有操作。格式：`## [日期] 操作类型 | 标题`
 
-## [2026-04-27] 摄入 | 2026 年 AI 编码的“渐进式 Spec”实战指南（阿里云开发者）
+## [2026-05-08] 维护 | Wiki 健康检查
+
+- 执行完整健康检查，检查项包括：孤立页面、缺失页面、交叉引用、矛盾检测、过时信息、信息缺口
+- 修复问题：
+  - `胶水编程.md`：将第29行 “SPEC Coding” 改为双链格式 `[[Spec Coding]]`
+  - `Harness Engineering.md`：修复第82行 unicode 编码链接 `[[白家杰]]` 为 `[[白家杰]]`
+  - `来源_Dijkstra预言与Vibe Coding.md`：补充核心要点和详细摘要中 Mitchell Hashimoto 作为 Harness Engineering 提出者的信息
+- 检查结果：
+  - **孤立页面**：0个（所有页面都被正确引用）
+  - **缺失页面**：0个（所有双链引用的页面都已创建）
+  - **矛盾信息**：0处（核心概念定义一致，时间线无冲突）
+  - **过时信息**：0处（日期引用正确，版本信息未过时）
+  - **链接格式问题**：已全部修复
+- 发现信息缺口（建议创建的新页面）：
+  - 高优先级：MCP、Skill、知识飞轮
+  - 中优先级：Rule、Scripts、Sub Agent、Workflow
+  - 低优先级：CLAUDE.md、AGENTS.md（作为实体页）
+- 建议：
+  - 后续可创建比较分析页面（如《Vibe Coding vs Spec Coding vs Glue Coding》）
+  - 补充人物页的 frontmatter “来源数”字段以保持格式一致性
+- 更新页面：`胶水编程.md`、`Harness Engineering.md`、`来源_Dijkstra预言与Vibe Coding.md`、`log.md`
+
+## [2026-04-27] 摄入 | 2026 年 AI 编码的”渐进式 Spec”实战指南（阿里云开发者）
 
 - 来源：bestblogs.dev 转载阿里云开发者文章，2026-04-27，核心项目：code_copilot 个人框架
 - 创建页面：

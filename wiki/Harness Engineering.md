@@ -79,7 +79,7 @@ Harness Engineering 并非否定自然语言的价值，而是确立了三层结
 
 ## 工程实践：白家杰 JK Launcher 落地全记录
 
-[[\u767d\u5bb6\u6770]] 以 JK Launcher（Unity 桌面启动器）为真实案例，记录了从零搞起 Harness Engineering 的完整演化路径。
+[[白家杰]] 以 JK Launcher（Unity 桌面启动器）为真实案例，记录了从零搞起 Harness Engineering 的完整演化路径。
 
 ### Harness 六大零件
 
